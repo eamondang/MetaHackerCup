@@ -10,12 +10,9 @@
 + Some problems marked as ~"hard"~ which that it was unsolved during the contest and may not be difficult.
 #+end_quote
 
-* Round
-+ [[Qualification Round]]
-+ [[Round 1]]
-+ Round 2
-+ Round 3
-+ Round 4
+* Round :TOC:
+- [[#qualification-round][Qualification Round]]
+- [[#round-1][Round 1]]
 
 * Qualification Round
 #+NAME: Qualification Round
@@ -27,7 +24,7 @@
 | #C2 |       |      |       |           |      |
 | #D  |       |      |       |           |      |
 
-* <<Round 1>>
+* Round 1
 #+NAME: Round 1
 | #   | Title | Time | Space | Difficult | Note |
 | #A  |       |      |       |           |      |
