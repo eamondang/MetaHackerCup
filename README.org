@@ -6,9 +6,8 @@
 
 [[https://www.facebook.com/codingcompetitions/hacker-cup][Meta Hacker Cup]]
 #+begin_quote
-+ Rust solutions of Meta Hacker cup 2022. Solution beginning with * means it will get TLE in the largest data set.
-+ Total computation amount > 10^8, which is not friendly for rust to solve in 5-15 seconds.
-+ Some problems marked as ~"hard"~ which that it was unsolved during the contest and may not be difficult.
+Meta's longest-running global coding competition, Meta Hacker Cup calls on programmers around the world to solve challenging, algorithmic puzzles against the clock.
+I want to challenge myself and improve my programming thinking through this contest.
 #+end_quote
 
 * Rounds                                                                :TOC:
